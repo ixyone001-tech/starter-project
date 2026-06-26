@@ -1,5 +1,3 @@
-# starter-project
-My first GitHub project
 <!doctype html>
 <html lang="en">
   <head>
