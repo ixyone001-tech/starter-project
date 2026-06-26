@@ -23,6 +23,21 @@ p {
   line-height: 1.6;
 }
 
+main > a {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  color: #ffffff;
+  background: #0f766e;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+main > a:hover {
+  background: #115e59;
+}
+
 h2 {
   margin-top: 40px;
 }
